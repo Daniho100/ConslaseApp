@@ -1,0 +1,87 @@
+.kontainer
+{
+    padding-top: 90px;
+}
+
+.how-it-works-img
+{
+    width: 417px;
+    height: 205px;
+    margin-top: 20px;
+}
+
+.analyst
+{
+    display: flex;
+    justify-content: flex-start;
+    /* margin-top: 20px; */
+    margin-bottom: -80px !important;
+}
+
+.manager
+{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 100px;
+    margin-bottom: -80px;
+}
+
+.trader
+{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 250px;
+    margin-top: -40px;
+}
+.column1
+{
+   margin-bottom: -190px; 
+}
+
+.column2
+{
+   width: 500px;
+   padding-left: 50px;
+}
+
+.text-titles
+{
+    color: #3F403F;
+    font-weight: 700;
+    font-family: GT Walsheim Pro;
+    font-size: 36px;
+    font-style: normal;
+    display: flex;
+    justify-content: flex-start;
+    /* padding-bottom: 15px; */
+}
+
+.text-subtitles
+{
+    color: #3F403F;
+    font-weight: 600;
+    font-family: GT Walsheim Pro;
+    font-size: 20px;
+    font-style: normal;
+    display: flex;
+    justify-content: flex-start;
+    /* padding-bottom: 15px; */
+}
+
+.text-body
+{
+    display: flex; 
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    justify-content: flex-start;
+    color: #3F403F
+}
+
+.checkbox
+{
+    width: 45px;
+    height: 25px;
+}
+

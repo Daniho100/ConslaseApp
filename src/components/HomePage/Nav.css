@@ -1,0 +1,139 @@
+*{
+    font-family: Graphik;
+    font-size: 16px;
+    font-style: normal;
+    
+}
+
+
+
+.nav-contents
+{
+    align-items: center;
+}
+
+.button
+{
+    background: rgba(6, 148, 42, 0.2);
+    border-radius: 30px;
+    width: 100px;
+}
+
+
+
+
+/* header styles */
+
+
+.kontainer
+{
+    padding-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.header-text
+{
+    padding-top: 50px;
+}
+
+.job-style
+{
+    color: green;
+    font-weight: 600;
+    font-family: 'GT Walsheim Pro';
+    font-size: 48px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.text-title
+{
+    color: #3F403F;
+    font-weight: 700;
+    font-family: 'GT Walsheim Pro';
+    font-size: 48px;
+    display: flex;
+    justify-Content: flex-start;
+    padding-bottom: 15px;
+}
+
+.text-body
+{
+    display: flex;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    justify-content: flex-start;
+    color: #3F403F;
+}
+
+.header-img
+{
+    background-image: url('../../assets/bg.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 520px;
+    
+}
+
+.clientimg
+{
+    height: 450px;
+    width: 570px;
+    padding-right: 90px;
+}
+
+.title
+{
+    width: 80px;
+    /* height: 25px; */
+    padding-left: -20px;
+    padding-top: 25px;
+} 
+
+.search
+{
+    /* borderTopLeftRadius: 30px; */
+    border-radius: 30px;
+    width: 150px;
+    border: none;
+    background: #f9f9f9;
+    padding: 15px;
+    height: 45px;
+}
+
+.search-double
+{
+    color: white;
+   
+    border-radius: 30px;
+    border: none; 
+    cursor: pointer;
+    height: 45px;
+    display: flex;
+    align-Items:center; 
+    justify-content: center;
+}
+
+.search-input
+{
+    padding: 20px;
+}
+
+.input-icon
+{
+    background: #06942A;
+    color: white;
+    font-Size: 25px;
+    border-radius: 30px;
+    cursor: pointer; 
+    height: 45px;
+    display: flex;
+    align-Items: center;
+    justify-Content: center;
+}
+
+

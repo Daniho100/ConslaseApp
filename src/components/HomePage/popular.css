@@ -1,0 +1,51 @@
+.popular-container
+{
+    /* padding-top: 30px; */
+    margin-top: 40px;
+}
+
+.text-header-recommended
+{
+    display: flex;
+    justify-content: center;
+    font-family: Graphik;
+    font-size: 24px;
+    padding-left: 10px; 
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: #3F403F;
+}
+
+.product-cards
+{   
+    /* width: 320px; */
+    height: 170px;
+    /* word-wrap: break-word; */
+    background-color: #ffffff;
+    box-shadow: 2px 15px 20px rgba(6, 158, 45, 0.05);
+    border-radius: 10px;
+}
+
+.product-Img
+{
+    padding-top: 12px;
+}
+
+.product-text
+{
+    font-size: 15px;
+    font-weight: 700 !important;
+    padding-top: 5px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    color: #3F403F;
+}
+
+.new-jobs
+{
+    margin-top: -10px;
+    font-family: Graphik;
+    font-size: 13px;
+    color: #9B9B9B;
+}
