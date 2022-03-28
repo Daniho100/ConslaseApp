@@ -1,6 +1,5 @@
 .popular-container
 {
-    /* padding-top: 30px; */
     margin-top: 40px;
 }
 
@@ -19,12 +18,13 @@
 
 .product-cards
 {   
-    /* width: 320px; */
     height: 170px;
-    /* word-wrap: break-word; */
     background-color: #ffffff;
     box-shadow: 2px 15px 20px rgba(6, 158, 45, 0.05);
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .product-Img

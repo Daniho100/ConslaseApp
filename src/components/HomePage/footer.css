@@ -1,13 +1,16 @@
 .footer-decoration
 {
     margin-top: 80px;
-    /* font-family: Graphik; */
-    /* font-style: normal;
+    /* font-family: Graphik; 
+     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
-    
     color: #3F403F; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 20px;
 }
 
 .footer-title

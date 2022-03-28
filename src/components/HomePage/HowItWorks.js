@@ -11,16 +11,16 @@ const HowItWorks = () => {
       <div className='container'>
             <div className='row'>
                 <div className='col-lg-6 column1'>
-                  <div className='analyst'>
-                    <img src={Analyst} className='how-it-works-img' alt='Trader' />
+                  <div className='analysts'>
+                    <img src={Analyst} className='how-imgs' alt='Trader' />
                     </div>
 
-                    <div className='manager'>
-                    <img src={HrManager} className='how-it-works-img' alt='analyst' />
+                    <div className='managers'>
+                    <img src={HrManager} className='how-imgs' alt='analyst' />
                     </div>
 
-                    <div className='trader'>
-                    <img src={Trader} className='how-it-works-img' alt='Manager' />
+                    <div className='traders'>
+                    <img src={Trader} className='how-imgs' alt='Manager' />
                     </div>
                 </div>
 

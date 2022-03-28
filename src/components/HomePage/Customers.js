@@ -1,8 +1,5 @@
 import React from 'react'
-// import { HiArrowNarrowLeft, HiArrowNarrowRight } from "react-icons/hi";
 import testimonial from '../../assets/testimonial.svg'
-// import NextArrow from '../../assets/NextArrow.svg'
-// import PrevArrow from '../../assets/PrevArrow.svg'
 import './customers.css'
 
 

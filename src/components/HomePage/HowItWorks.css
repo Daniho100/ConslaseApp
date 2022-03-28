@@ -3,35 +3,36 @@
     padding-top: 90px;
 }
 
-.how-it-works-img
+.how-imgs
 {
-    width: 517px;
-    height: 205px;
+    width: 417px;
+    height: 215px;
     margin-top: 20px;
 }
 
-.analyst
+.analysts
 {
     display: flex;
     justify-content: flex-start;
-    /* margin-top: 20px; */
+    margin-top: 0px;
     margin-bottom: -80px !important;
 }
 
-.manager
+.managers
 {
     display: flex;
     justify-content: flex-end;
     padding-left: 100px;
-    margin-bottom: -80px;
+    padding-top: 40px !important;
+    margin-bottom: -80px !important;
 }
 
-.trader
+.traders
 {
     display: flex;
     justify-content: flex-start;
     padding-bottom: 250px;
-    margin-top: -40px;
+    margin-top: -20px;
 }
 .column1
 {

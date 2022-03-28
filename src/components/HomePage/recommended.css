@@ -1,8 +1,10 @@
-.popular-img-paystack
+.paystack
 {
-    width: 50px;
+    width: 150px;
     height: 35px;
-    margin-top: 30px;
+    /* margin-top: 30px; */
+    display: flex;
+    justify-content: center;
 } 
 
 .popular-img-access
@@ -10,6 +12,7 @@
     width: 50px;
     height: 35px;
     margin-top: 30px;
+    margin-left: 50px;
 }
 
 .popular-img-google
@@ -36,6 +39,7 @@
    margin-left: 20px;
 }
 
+
 .text-header-recommended
 {
     display: flex;
@@ -52,7 +56,8 @@
 {
     /* display: flex; */
     justify-content: flex-start;
-    padding-left: 20px;
+    padding-left: 60px;
+    font-size: 12px;
 }
 
 .cards
@@ -62,13 +67,16 @@
     background-color: #ffffff;
     box-shadow: 0px 15px 40px rgba(6, 158, 45, 0.05);
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .apply
 {
-    padding-left: 60px;
+    padding-left: 40px;
     font-family: 'Graphik';
-    font-size: 15px;
+    font-size: 12px;
     text-decoration: none;
     color: #06942A;
 }

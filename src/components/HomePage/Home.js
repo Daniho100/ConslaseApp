@@ -1,6 +1,6 @@
 import React from 'react'
 import NavBar from './NavBar'
-import Header from './Header'
+// import Header from './Header'
 import Recommended from './Recommended'
 import HowItWorks from './HowItWorks'
 import Popular from './Popular'

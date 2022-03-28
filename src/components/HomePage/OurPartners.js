@@ -31,7 +31,7 @@ const OurPartners = () => {
 
                 
             
-             <div className='col-lg-6 colum2'>
+             <div className='col-lg-6 '>
              <div className='row'>
                 <div className='col-sm-3'>
                      <img src={Flutterwav} className='how-it-works-img' alt='flutter' />
@@ -58,10 +58,10 @@ const OurPartners = () => {
 
                      <div className='row'>
                         <div className='col-sm-6'>
-                     <img src={Mckinsey} className='how-it-works-img' alt='Mckinsey' />
+                     <img src={Mckinsey} className='partners-img1' alt='Mckinsey' />
                      </div>
                      <div className='col-sm-6'>
-                     <img src={Googl} className='how-it-works-img' alt='GOOGLE' />
+                     <img src={Googl} className='partners-img2' alt='GOOGLE' />
                      </div>
                      </div>
                  </div>

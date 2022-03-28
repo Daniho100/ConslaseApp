@@ -3,9 +3,6 @@ import jobLogo from '../../assets/jobLogo.png'
 import './Nav.css'
 import client1 from '../../assets/client1.svg'
 import {Link} from 'react-router-dom'
-// import Popular from './Popular.js'
-// import Recommended from './Recommended.js'
-// import HowItWorks from './HowItWorks.js'
 import paystac from '../../assets/paystac.svg'
 import kpmg from '../../assets/kpmg.svg'
 import minigoogle from '../../assets/minigoogle.svg'
@@ -28,7 +25,7 @@ const NavBar = () => {
           <Link to='' className="nav-link" href="#">Candidates</Link>
         </li>
         <li className="nav-item">
-          <Link to='/Todos' className="nav-link" >Assesment</Link>
+          <Link to='/Event' className="nav-link" >Assesment</Link>
         </li>
         <li className="nav-item">
           <Link to='' className="nav-link" href="#">Post A Job</Link>
@@ -48,7 +45,7 @@ const NavBar = () => {
 
 
 
-        <div className='container '>
+        <div className='container'>
             <div className='row'>
                 <div className='col-lg-6 header-text'>
                 <h1 className='text-title'>Find a <span className='job-style'>job</span> easily</h1>

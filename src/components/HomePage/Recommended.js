@@ -21,10 +21,10 @@ const Recommended = () => {
     <div className='row'>
         <div className='col-lg-3 cards'>
         <button className='btn btn-light time-buttons-paystack'>Full Time</button>
-            <img src={paystack} className='Popular-img-paystack' alt='paystack' />
+            <img src={paystack} className='paystack' alt='paystack' />
             <p className='titles'>QA Engineer</p>
 
-                <h5 className='title-header'> Paystack</h5>
+                <h5 className='titles'> Paystack</h5>
                 <p className='address'>Lagos, Nigeria <a href className='apply'>Apply Now</a></p>
             </div>
             
@@ -34,7 +34,7 @@ const Recommended = () => {
                 <img src={google} className='Popular-img-google' alt='google' />
                 <p className='titles'>Product Analyst</p>
 
-                <h5 className='title-header'> Paystack</h5>
+                <h5 className='titles'> Paystack</h5>
                 <p className='address'>Lagos, Nigeria <a href className='apply'>Apply Now</a></p>
             </div>
 
@@ -43,7 +43,7 @@ const Recommended = () => {
                 <img src={hr} className='Popular-img-hr' alt='hr' />
                 <p className='titles'>HR Manager</p>
 
-                <h5 className='title-header'> Paystack</h5>
+                <h5 className='titles'> Paystack</h5>
                 <p className='address'>Lagos, Nigeria <a href className='apply'>Apply Now</a></p>
             </div>
 
@@ -52,7 +52,7 @@ const Recommended = () => {
             <img src={access} className='Popular-img' alt='access' />
             <p className='titles'>QA Engineer</p>
 
-            <h5 className='title-header'> Paystack</h5>
+            <h5 className='titles'> Paystack</h5>
             <p className='address'>Lagos, Nigeria <a href className='apply'>Apply Now</a></p>
         </div>
     </div>
